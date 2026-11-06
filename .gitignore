@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.*
+!.env.example
+uploads/
+dist/
+coverage/
+cookies.txt
+*.log
+server/sample.txt
+server/downloaded_sample.txt
